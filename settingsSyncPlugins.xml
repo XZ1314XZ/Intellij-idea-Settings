@@ -13,51 +13,21 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="Statistic">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="cn.haojiyou.CodeGlance3">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="cn.yiiguxing.plugin.translate">
+        <entry key="com.codota.csp.intellij">
           <value>
             <PluginData />
           </value>
         </entry>
-        <entry key="com.alibaba.p3c.smartfox">
+        <entry key="com.github.tuchg.nonasciicodecompletionhelper">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
                   <option value="com.intellij.modules.platform" />
-                  <option value="com.intellij.modules.vcs" />
-                  <option value="com.intellij.modules.xdebugger" />
-                  <option value="com.intellij.modules.xml" />
                 </set>
               </option>
             </PluginData>
-          </value>
-        </entry>
-        <entry key="com.dubreuia">
-          <value>
-            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.zh">
@@ -82,9 +52,10 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="izhangzhihao.rainbow.brackets">
+        <entry key="monokai-pro">
           <value>
             <PluginData>
+              <option name="category" value="UI" />
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
@@ -93,10 +64,9 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="monokai-pro">
+        <entry key="net.vektah.codeglance2">
           <value>
             <PluginData>
-              <option name="category" value="UI" />
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
